@@ -8,6 +8,7 @@ Ce projet consiste à simuler des échanges réseaux entre un client en Python e
 
 - La base de données est nécéssaire au fonctionnement du serveur. Vous pouvez récupérer le fichier `DDL&DML.sql`, il suffira de copier l'intégralité du contenu du fichier et le coller dans le logiciel [pg Admin 4](https://www.pgadmin.org). 
     - Ne pas oublier de rajouter les informations de connexion à la base de données dans le fichier `Serveur.java`.
+ 
 - Un site web permet de consulter les informations des joueurs. Vous pouvez récupérer les fichiers du dossier `web` et les mettre sur votre serveur web avec le logiciel [FileZilla](https://filezilla-project.org).
     - Ne pas oublier de rajouter les informations de connexion à la base de données dans le fichier `index.php`.
 
