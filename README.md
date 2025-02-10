@@ -1,4 +1,4 @@
-# Base de données et Réseau : Salle d'arcade
+# Salle d'arcade
 
 Ce projet consiste à simuler des échanges réseaux entre un client en Python et un serveur en Java à partir d'un protocole basé sur TCP avec une base de données en PostgreSQL dans le contexte d'une salle d'arcade.
 
