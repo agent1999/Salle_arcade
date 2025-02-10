@@ -44,10 +44,6 @@ Par défaut pour le serveur, l'adresse IP est `localhost` et le port est `420` m
 
 ## Journal des modifications
 
-### Version 2.0
-
-- Mise à jour du nom du projet : Salle d'arcade -> Arcade à GOGO
-
 ### Version 1.0
 
 - Sortie initiale et version final
