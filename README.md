@@ -46,7 +46,7 @@ Par défaut pour le serveur, l'adresse IP est `localhost` et le port est `420` m
 
 ### Version 1.0
 
-- Sortie initiale et version final
+- Sortie initiale et version finale
 
 ## Crédits
 
